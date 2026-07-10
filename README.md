@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Faith 👋
 
 I'm a **Software Engineer and UX/UI Designer** who specializes in bridging the gap between back-end power and front-end elegance. I love creating seamless, accessible, and high-performing digital products.
 
