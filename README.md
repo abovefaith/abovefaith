@@ -16,4 +16,4 @@ I'm a **Software Engineer and UX/UI Designer** who specializes in bridging the g
 * 🎨 I always design with the user in mind before writing the first line of code.
 * 💬 Ask me about: The intersection of design systems and component libraries.
 
-⚡ **Connect with me:** [LinkedIn](your-link) | [Portfolio](your-link)
+⚡ **Connect with me:** [LinkedIn]https://www.linkedin.com/in/faith-kawira-7a21a021b/ | [Portfolio](your-link)
