@@ -1,39 +1,33 @@
 # Hi, I'm Faith Kawira 
-### Full-Stack Product Engineer & UI/UX Specialist
+### Software Engineer & UX/UI Designer 
 
-I build highly scalable, performant full-stack applications with a meticulous focus on product design, user psychology, and accessibility. Specializing in bridging the gap between heavy backend systems (**Python**, **.NET**) and modern, blazing-fast web architectures (**Next.js**, **React**).
+I am a Full-Stack Engineer and UX/UI Designer specializing in building highly scalable web architectures and intuitive digital experiences. I bridge the gap between robust, enterprise-grade backends (**Python**, **.NET**) and modern, conversion-driven user interfaces (**Next.js**, **React**, **Angular**).
 
 ---
 
-###  Core Technology Stack & Specializations
+###  Core Technology Stack & Capabilities
 
 | Layer | Technologies & Frameworks | Strategic Engineering Focus |
 | :--- | :--- | :--- |
-| **Frontend Production** | Next.js, React, Angular, JavaScript (ES6+), jQuery | Server-Side Rendering (SSR), App Router optimization, state management, component architecture. |
-| **Backend & APIs** | Python, .NET Core, Web API, C# | Scalable RESTful API architecture, robust data processing, secure system integration. |
-| **UI/UX & Product Design** | Figma (Advanced Auto-Layout, Tokens), Prototyping, Design Systems | User Research, conversion-driven visual hierarchy, data-dense dashboards, AI interaction loops. |
+| **Frontend Production** | Next.js, React, Angular, JavaScript, jQuery | Server-Side Rendering (SSR), responsive layout, optimized state management, component architecture. |
+| **Backend & Systems** | Python, .NET Core, C#, Web API | Scalable RESTful API development, robust business logic, secure data integrations. |
+| **UI/UX Design** | Figma, Wireframing, Rapid Prototyping | End-to-end user journeys, accessible design systems (WCAG), data-dense dashboards. |
 
 ---
 
-###  Strategic Technical Strengths
+### Strategic Technical Strengths
 
-*   **Next-Gen Full-Stack Delivery:** Seamlessly connecting high-performance Next.js interfaces directly to robust Python microservices or enterprise-level .NET backends. 
-*   **Design-Led Engineering:** Eliminating design-to-development friction. I map out user journeys, create scalable design systems in Figma, and personally transform them into production-ready, semantic code.
-*   **Performance & Accessibility First:** Deep understanding of web performance metrics, dynamic layouts, and web accessibility standards (WCAG).
-
----
-
-###  Current Production Focus
-*   **Interactive Applications:** Building responsive, multi-role data portals and dynamic system dashboards.
-*   **AI User Interfaces:** Architecting intuitive interface patterns and conversational flows for modern web applications.
+*   **Design-Led Engineering:** I eliminate design-to-development friction. I map out user psychology and user journeys in Figma, and personally translate those layouts into performant, clean, production-ready code.
+*   **Full-Stack Mindset:** Equally comfortable architecting secure, reliable APIs in Python or .NET as I am handling state management and dynamic UI rendering on the frontend.
+*   **Performance & Reliability First:** I prioritize building modular applications that are structured cleanly, optimized for speed, and entirely intuitive for the end-user.
 
 ---
 
 ###  Open for Opportunities & Collaboration
-I partner with tech leads, product owners, and founders to bring robust digital products to market efficiently.
+I partner with tech leads, product owners, and engineering managers to bring scalable digital products to life.
 
 *   **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/faith-kawira-7a21a021b/)
-*   **Direct Inquiries:** Explore my repositories below to audit my clean code standards and system architectures.
+*   **Project Audit:** Explore my pinned repositories below to review my engineering standards, documentation, and interface designs.
 
 ---
 
