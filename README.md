@@ -1,19 +1,30 @@
-## Hi there, I'm Faith 👋
+# Hi there, I'm Faith Kawira 👋
 
-I'm a **Software Engineer and UX/UI Designer** who specializes in bridging the gap between back-end power and front-end elegance. I love creating seamless, accessible, and high-performing digital products.
-
-### 🛠️ What I Work With
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Frontend & UI/UX** | Next.js, React, Angular, JavaScript, jQuery |
-| **Backend & Databases** | Python, .NET |
+### 🚀 Software Engineer & UX/UI Designer
+I bridge the gap between complex engineering and beautiful, user-centric interfaces. With strong experience spanning robust back-end technologies to dynamic front-end frameworks, I build full-stack digital experiences that are pixel-perfect, highly performant, and scales efficiently.
 
 ---
 
-### 📈 What I'm Up To
-* 🔭 I’m currently working on full-stack projects combining **Next.js** and robust back-ends.
-* 🎨 I always design with the user in mind before writing the first line of code.
-* 💬 Ask me about: The intersection of design systems and component libraries.
+### 🛠️ My Tech Stack
 
-⚡ **Connect with me:** [LinkedIn]https://www.linkedin.com/in/faith-kawira-7a21a021b/ | [Portfolio](your-link)
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **Frontend Frameworks** | Next.js, React, Angular |
+| **Languages & Core Web** | JavaScript, Python, jQuery |
+| **Backend & Architecture** | .NET |
+| **Design Thinking** | UX Research, UI Design, Wireframing & Prototyping |
+
+---
+
+### 🌟 What Sets Me Apart
+- **Design-Driven Development:** I don't just write functional code; I carefully map out the user journeys, accessibility, and design systems beforehand.
+- **Full-Stack Competency:** Equally comfortable designing custom APIs in Python or .NET as I am engineering highly responsive modern front-ends in Next.js.
+
+---
+
+### 📈 Let's Connect & Collaborate!
+
+I'm always open to discussing full-stack development, design systems, open-source projects, or new opportunities.
+
+- 💼 **Professional Network:** Connect with me on [LinkedIn](https://www.linkedin.com/in/faith-kawira-7a21a021b/)
+- 🌐 **My Work:** Explore my repositories below to view my portfolio projects and design implementations
